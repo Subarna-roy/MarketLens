@@ -1,0 +1,19 @@
+
+Call:
+lm(formula = Profit ~ Sales, data = sales_data)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-18982.5   -529.3   -304.0    319.2  18188.9 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) 5.817e+02  9.957e+01   5.842 6.65e-09 ***
+Sales       1.568e-01  1.599e-03  98.079  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2923 on 1198 degrees of freedom
+Multiple R-squared:  0.8893,	Adjusted R-squared:  0.8892 
+F-statistic:  9619 on 1 and 1198 DF,  p-value: < 2.2e-16
+

@@ -1,0 +1,8 @@
+Highest Sales Category: Technology
+Highest Performing Region: Central
+Top Selling Product: Wireless Mouse
+Total Sales: 39666764.18
+Total Profit: 6919177.2
+Total Orders: 1200
+Average Order Value: 33055.64
+Profit Margin: 17.44 %
